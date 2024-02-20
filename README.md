@@ -3,7 +3,6 @@
 - 🌱 3 ano-b
 - 💞️ Eu estou interessada em aprender a programar
 - 📫 nayrla.alves@escola.pr.gov.br
-- 😄 Pronouns: ela/dela
 - ⚡ Fun fact: sou Paraense
 
 <!---
